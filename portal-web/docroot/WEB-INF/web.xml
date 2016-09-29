@@ -951,7 +951,7 @@
 			<url-pattern>/lo_LA/c/portal/protected</url-pattern>
 			<url-pattern>/lt/c/portal/protected</url-pattern>
 			<url-pattern>/lt_LT/c/portal/protected</url-pattern>
-                        <url-pattern>/nb/c/portal/protected</url-pattern>
+			<url-pattern>/nb/c/portal/protected</url-pattern>
 			<url-pattern>/ms/c/portal/protected</url-pattern>
 			<url-pattern>/ms_MY/c/portal/protected</url-pattern>
 			<url-pattern>/nb_NO/c/portal/protected</url-pattern>
