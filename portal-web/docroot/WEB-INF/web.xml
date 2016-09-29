@@ -545,6 +545,14 @@
 		<servlet-name>I18n Servlet</servlet-name>
 		<url-pattern>/lt_LT/*</url-pattern>
 	</servlet-mapping>
+        <servlet-mapping>
+		<servlet-name>I18n Servlet</servlet-name>
+		<url-pattern>/ms/*</url-pattern>
+	</servlet-mapping>
+        <servlet-mapping>
+		<servlet-name>I18n Servlet</servlet-name>
+		<url-pattern>/ms_MY/*</url-pattern>
+	</servlet-mapping>
 	<servlet-mapping>
 		<servlet-name>I18n Servlet</servlet-name>
 		<url-pattern>/nb/*</url-pattern>
@@ -943,7 +951,9 @@
 			<url-pattern>/lo_LA/c/portal/protected</url-pattern>
 			<url-pattern>/lt/c/portal/protected</url-pattern>
 			<url-pattern>/lt_LT/c/portal/protected</url-pattern>
-			<url-pattern>/nb/c/portal/protected</url-pattern>
+                        <url-pattern>/nb/c/portal/protected</url-pattern>
+                        <url-pattern>/ms/c/portal/protected</url-pattern>
+			<url-pattern>/ms_MY/c/portal/protected</url-pattern>
 			<url-pattern>/nb_NO/c/portal/protected</url-pattern>
 			<url-pattern>/nl/c/portal/protected</url-pattern>
 			<url-pattern>/nl_BE/c/portal/protected</url-pattern>
