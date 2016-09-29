@@ -215,7 +215,7 @@ public class LangBuilder {
 		_createProperties(content, "ko"); // Korean
 		_createProperties(content, "lo"); // Lao
 		_createProperties(content, "lt"); // Lithuanian
-                _createProperties(content, "ms"); // Malayzian
+		_createProperties(content, "ms"); // Malayzian
 		_createProperties(content, "nb"); // Norwegian Bokmål
 		_createProperties(content, "fa"); // Persian
 		_createProperties(content, "pl"); // Polish
